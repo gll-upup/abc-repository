@@ -6,4 +6,9 @@ v111
 
 v2
 
+<<<<<<< HEAD
 gaooaoooooooooo6666666
+=======
+
+hahahahahahahahahahahha555
+>>>>>>> branch 'master' of https://github.com/gll-upup/abc-repository.git
